@@ -1,0 +1,5 @@
+cat<<>EOF>/root/.config/rclone/rclone.conf
+[dr]
+type = drive
+scope = drive
+token = {"access_token":"ya29.a0ARrdaM89IUXv1dJDzg39EPQYUCMcYX_fTJuQYqoDPNUMstbL8U7q-7Td1RNeLoJJIgKQWIRBUoGb5TT2qW1r-5IfXwPe8teewhR3stTCR4pnV6CuzljB_8g8DaSkJRXKXtsksHY1YzmalUm3tHffovRxSQDc","token_type":"Bearer","refresh_token":"1//0g6zILeF-4xxwCgYIARAAGBASNwF-L9IrSyROjINZ6MGSiiT8_Z1vTVN0ns8UVmo7Dr0q0B0ic-uU4NgQvOrTW_MSdXgCOk_KKVI","expiry":"2021-10-10T08:05:10.119713065+07:00"}
