@@ -1,4 +1,3 @@
-cat<<>EOF>/root/.config/rclone/rclone.conf
 [dr]
 type = drive
 scope = drive
